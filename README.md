@@ -1,6 +1,7 @@
 # Online Retail Store Analysis
 
 ![Screenshot 2024-02-07 220946](https://github.com/purvaphalak/Online_Retail_Sales_Analysis/assets/148857209/70dcf49f-5d2e-444d-88ef-3f60a5b90b63)
+
 ![Screenshot 2024-02-07 221022](https://github.com/purvaphalak/Online_Retail_Sales_Analysis/assets/148857209/caa85f40-9197-4251-b50a-ad3fb2edf6af)
 
 ## Table of Contents
